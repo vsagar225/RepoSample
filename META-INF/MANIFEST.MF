@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: proj2
+Bundle-SymbolicName: proj2
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: proj2
+Export-Package: gr1.prog1.stepdefination,
+ group1.prog1.runner,
+ group1.proj1
